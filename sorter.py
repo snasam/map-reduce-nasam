@@ -1,5 +1,5 @@
-a = open("o2.txt","r")  # open file, read-only
-b = open("s.txt", "w") # open file, write
+a = open("nasam1.txt","r")  # open file, read-only
+b = open("nasam2.txt", "w") # open file, write
 lines = a.readlines()
 lines.sort()
 
