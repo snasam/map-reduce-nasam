@@ -9,7 +9,8 @@ I have processed the raw data using mapping technique and mapped two fields loca
 ## Chart:
 
 
-![Picture1](https://user-images.githubusercontent.com/77593263/152550774-2c399f59-ab7f-4017-afb8-a0a91bdf0866.png)
+![Picture1](https://user-images.githubusercontent.com/77593263/154758013-892bbc63-41fc-4c82-916b-720f7ba10a8d.png)
+
 
 
 
